@@ -346,6 +346,7 @@ namespace com.zibra.liquid.Editor.SDFObjects
             GenerationURL = CreateGenerationRequestURL("compute");
         }
 
+
         private void UpdateKeyRequest(AsyncOperation obj)
         {
             if (IsLicenseKeyValid)
