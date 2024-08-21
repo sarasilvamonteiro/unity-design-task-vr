@@ -11,6 +11,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.arfoundation": "file:C:/Users/Sara/Desktop/Unity/Clayxels/VarjoNoURP/Library/PackageCache/com.unity.xr.arfoundation@4.2.7",
     "com.unity.xr.arsubsystems": "file:C:/Users/Sara/Desktop/Unity/Clayxels/VarjoNoURP/Library/PackageCache/com.unity.xr.arsubsystems@4.2.7",
+    "com.unity.xr.hands": "1.1.0",
     "com.varjo.xr": "https://github.com/varjocom/VarjoUnityXRPlugin.git",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
